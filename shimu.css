@@ -1,0 +1,43 @@
+.from{
+  width: 450px;
+  height: 470px;
+  margin: auto;
+  background-image: url(w-qjh.jpg);
+  margin-top: 70px;
+}
+.fro{
+  padding-top: 15px;
+  margin-left: 90px;
+}
+.fro input{
+  padding: 13px 60px 13px 60px;
+  border-radius: 15px;
+  border: none;  
+}
+h2{
+  color: rgb(255, 255, 255);
+  font-style: bold;
+}
+label{
+  color: rgb(133, 84, 84);
+  font-size: small;
+}
+hr{
+  width: 275px;
+  text-align: center;
+  margin-top: 70px; 
+}
+.fro button{
+  padding: 13px 118px 13px 118px;
+  border-radius: 15px;
+  border: none;
+  color: white;
+  background: blue;
+  font-style: bold;
+}
+.forgot{
+  margin-left: 173px;
+  margin-top: 60px;
+  color: rgb(157, 113, 113);
+}
+
